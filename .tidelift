@@ -1,0 +1,8 @@
+# Tidelift recommends committing this file to source control
+# Read more at https://ptm.sh/dot_tidelift_file
+
+TIDELIFT_ORGANIZATION=Pay-The-Maintainers
+TIDELIFT_PROJECT=posthog
+TIDELIFT_PYTHON_BINARY=./venv/bin/python
+TIDELIFT_PYTHON_RESOLVE_LOCAL=1
+TIDELIFT_EXCLUDED_MANIFESTS=package.json
